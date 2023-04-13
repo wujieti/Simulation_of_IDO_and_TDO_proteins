@@ -1,0 +1,149 @@
+#  chirality for residue 287 atoms:  CA CG HB2 HB3
+ &rst iat=4845,4850,4848,4849, &end
+#
+#  chirality for residue 287 atoms:  CB CD HG2 HG3
+ &rst iat=4847,4853,4851,4852, &end
+#
+#  chirality for residue 287 atoms:  CG NE HD2 HD3
+ &rst iat=4850,4856,4854,4855, &end
+#
+#  chirality for residue 287 atoms:  N C HA CB
+ &rst iat=4843,4865,4846,4847, &end
+#
+#  chirality for residue 288 atoms:  CA CG HB2 HB3
+ &rst iat=4869,4874,4872,4873, &end
+#
+#  chirality for residue 288 atoms:  CB SD HG2 HG3
+ &rst iat=4871,4877,4875,4876, &end
+#
+#  chirality for residue 288 atoms:  N C HA CB
+ &rst iat=4867,4882,4870,4871, &end
+#
+#  chirality for residue 289 atoms:  CA CG HB2 HB3
+ &rst iat=4886,4891,4889,4890, &end
+#
+#  chirality for residue 289 atoms:  CB CD1 CD2 HG
+ &rst iat=4888,4893,4897,4892, &end
+#
+#  chirality for residue 289 atoms:  N C HA CB
+ &rst iat=4884,4901,4887,4888, &end
+#
+#  chirality for residue 290 atoms:  N C HA2 HA3
+ &rst iat=4903,4908,4906,4907, &end
+#
+#  chirality for residue 291 atoms:  CA OG HB2 HB3
+ &rst iat=4912,4917,4915,4916, &end
+#
+#  chirality for residue 291 atoms:  N C HA CB
+ &rst iat=4910,4919,4913,4914, &end
+#
+#  chirality for residue 292 atoms:  CA CG HB2 HB3
+ &rst iat=4923,4928,4926,4927, &end
+#
+#  chirality for residue 292 atoms:  CB CD HG2 HG3
+ &rst iat=4925,4931,4929,4930, &end
+#
+#  chirality for residue 292 atoms:  CD NZ HE2 HE3
+ &rst iat=4931,4937,4935,4936, &end
+#
+#  chirality for residue 292 atoms:  CG CE HD2 HD3
+ &rst iat=4928,4934,4932,4933, &end
+#
+#  chirality for residue 292 atoms:  N C HA CB
+ &rst iat=4921,4941,4924,4925, &end
+#
+#  chirality for residue 293 atoms:  N C HA CB
+ &rst iat=4943,4951,4946,4947, &end
+#
+#  chirality for residue 294 atoms:  N C HA2 HA3
+ &rst iat=4953,4958,4956,4957, &end
+#
+#  chirality for residue 295 atoms:  CA CG2 OG1 HB
+ &rst iat=4962,4966,4970,4965, &end
+#
+#  chirality for residue 295 atoms:  N C HA CB
+ &rst iat=4960,4972,4963,4964, &end
+#
+#  chirality for residue 296 atoms:  N C HA2 HA3
+ &rst iat=4974,4979,4977,4978, &end
+#
+#  chirality for residue 297 atoms:  N C HA2 HA3
+ &rst iat=4981,4986,4984,4985, &end
+#
+#  chirality for residue 298 atoms:  CA OG HB2 HB3
+ &rst iat=4990,4995,4993,4994, &end
+#
+#  chirality for residue 298 atoms:  N C HA CB
+ &rst iat=4988,4997,4991,4992, &end
+#
+#  chirality for residue 299 atoms:  CA OG HB2 HB3
+ &rst iat=5001,5006,5004,5005, &end
+#
+#  chirality for residue 299 atoms:  N C HA CB
+ &rst iat=4999,5008,5002,5003, &end
+#
+#  chirality for residue 300 atoms:  N C HA2 HA3
+ &rst iat=5010,5015,5013,5014, &end
+#
+#  chirality for residue 301 atoms:  CA CG HB2 HB3
+ &rst iat=5019,5024,5022,5023, &end
+#
+#  chirality for residue 301 atoms:  N C HA CB
+ &rst iat=5017,5036,5020,5021, &end
+#
+#  chirality for residue 302 atoms:  CA CG HB2 HB3
+ &rst iat=5040,5045,5043,5044, &end
+#
+#  chirality for residue 302 atoms:  N C HA CB
+ &rst iat=5038,5053,5041,5042, &end
+#
+#
+#  trans-omega constraint for residue 287
+ &rst iat=4845,4843,4841,4828, &end
+#
+#  trans-omega constraint for residue 288
+ &rst iat=4869,4867,4865,4845, &end
+#
+#  trans-omega constraint for residue 289
+ &rst iat=4886,4884,4882,4869, &end
+#
+#  trans-omega constraint for residue 290
+ &rst iat=4905,4903,4901,4886, &end
+#
+#  trans-omega constraint for residue 291
+ &rst iat=4912,4910,4908,4905, &end
+#
+#  trans-omega constraint for residue 292
+ &rst iat=4923,4921,4919,4912, &end
+#
+#  trans-omega constraint for residue 293
+ &rst iat=4945,4943,4941,4923, &end
+#
+#  trans-omega constraint for residue 294
+ &rst iat=4955,4953,4951,4945, &end
+#
+#  trans-omega constraint for residue 295
+ &rst iat=4962,4960,4958,4955, &end
+#
+#  trans-omega constraint for residue 296
+ &rst iat=4976,4974,4972,4962, &end
+#
+#  trans-omega constraint for residue 297
+ &rst iat=4983,4981,4979,4976, &end
+#
+#  trans-omega constraint for residue 298
+ &rst iat=4990,4988,4986,4983, &end
+#
+#  trans-omega constraint for residue 299
+ &rst iat=5001,4999,4997,4990, &end
+#
+#  trans-omega constraint for residue 300
+ &rst iat=5012,5010,5008,5001, &end
+#
+#  trans-omega constraint for residue 301
+ &rst iat=5019,5017,5015,5012, &end
+#
+#  trans-omega constraint for residue 302
+ &rst iat=5040,5038,5036,5019, &end
+#
+#

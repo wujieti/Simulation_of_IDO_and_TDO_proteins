@@ -1,0 +1,60 @@
+remark goes here
+MASS
+
+BOND
+
+ANGLE
+nc-cd-ce   71.150     126.010   same as c2-c2-n2
+cd-ce-cd   64.700     124.350   same as cd-ce-ce
+
+DIHE
+nc-cc-cf-cd   1    6.650       180.000           2.000      same as X -ce-cf-X 
+nc-cc-cf-ha   1    6.650       180.000           2.000      same as X -ce-cf-X 
+nc-cd-ce-cd   1    1.000       180.000           2.000      same as X -ce-ce-X 
+nc-cd-ce-ha   1    1.000       180.000           2.000      same as X -ce-ce-X 
+c2-ce-cc-cd   1    1.000       180.000           2.000      same as X -ce-ce-X 
+c2-ce-cc-cc   1    1.000       180.000           2.000      same as X -ce-ce-X 
+nd-cd-ce-cd   1    1.000       180.000           2.000      same as X -ce-ce-X 
+nd-cd-ce-ha   1    1.000       180.000           2.000      same as X -ce-ce-X 
+nd-cc-ce-cd   1    1.000       180.000           2.000      same as X -ce-ce-X 
+nd-cc-ce-ha   1    1.000       180.000           2.000      same as X -ce-ce-X 
+nc-cc-ce-cc   1    1.000       180.000           2.000      same as X -ce-ce-X 
+nc-cc-ce-ha   1    1.000       180.000           2.000      same as X -ce-ce-X 
+nc-cd-cf-cc   1    6.650       180.000           2.000      same as X -ce-cf-X 
+nc-cd-cf-ha   1    6.650       180.000           2.000      same as X -ce-cf-X 
+cc-cf-cd-cd   1    6.650       180.000           2.000      same as X -ce-cf-X 
+cd-ce-cd-cd   1    1.000       180.000           2.000      same as X -ce-ce-X 
+cd-ce-cc-cc   1    1.000       180.000           2.000      same as X -ce-ce-X 
+cc-ce-cc-cc   1    1.000       180.000           2.000      same as X -ce-ce-X 
+cc-ce-cc-nd   1    1.000       180.000           2.000      same as X -ce-ce-X 
+cc-cc-cf-cd   1    6.650       180.000           2.000      same as X -ce-cf-X 
+cc-cc-cf-ha   1    6.650       180.000           2.000      same as X -ce-cf-X 
+cd-cd-ce-ha   1    1.000       180.000           2.000      same as X -ce-ce-X 
+cd-cc-ce-ha   1    1.000       180.000           2.000      same as X -ce-ce-X 
+cd-cd-ce-cc   1    1.000       180.000           2.000      same as X -ce-ce-X 
+cc-cc-ce-ha   1    1.000       180.000           2.000      same as X -ce-ce-X 
+cd-cd-cf-ha   1    6.650       180.000           2.000      same as X -ce-cf-X 
+cc-ce-cd-nd   1    1.000       180.000           2.000      same as X -ce-ce-X 
+
+IMPROPER
+c2-cc-ce-ha         1.1          180.0         2.0          Using default value
+ce-ha-c2-ha         1.1          180.0         2.0          Using default value
+c3-o -c -o          1.1          180.0         2.0          General improper torsional angle (1 general atom type)
+cc-cd-cf-ha         1.1          180.0         2.0          Using default value
+cd-cd-ce-ha         1.1          180.0         2.0          Using default value
+cc-cd-ce-ha         1.1          180.0         2.0          Using default value
+cc-cc-ce-ha         1.1          180.0         2.0          Using default value
+cc-cf-cc-nc         1.1          180.0         2.0          Using default value
+cd-ce-cd-nd         1.1          180.0         2.0          Using default value
+cc-ce-cc-nc         1.1          180.0         2.0          Using default value
+c3-cc-cc-cd         1.1          180.0         2.0          Using default value
+c3-cc-cd-cd         1.1          180.0         2.0          Using default value
+cc-cd-cc-ce         1.1          180.0         2.0          Using default value
+cd-ce-cd-nc         1.1          180.0         2.0          Using default value
+cc-ce-cc-nd         1.1          180.0         2.0          Using default value
+cd-cf-cd-nc         1.1          180.0         2.0          Using default value
+
+NONBON
+
+
+

@@ -1,0 +1,36 @@
+remark goes here
+MASS
+
+BOND
+
+ANGLE
+
+DIHE
+cc-cc-cf-cd   1    6.650       180.000           2.000      same as X -ce-cf-X 
+cc-cc-cf-ha   1    6.650       180.000           2.000      same as X -ce-cf-X 
+cc-cf-cd-cd   1    6.650       180.000           2.000      same as X -ce-cf-X 
+cc-cf-cd-nc   1    6.650       180.000           2.000      same as X -ce-cf-X 
+nc-cc-cf-cd   1    6.650       180.000           2.000      same as X -ce-cf-X 
+nc-cc-cf-ha   1    6.650       180.000           2.000      same as X -ce-cf-X 
+nc-cd-cf-ha   1    6.650       180.000           2.000      same as X -ce-cf-X 
+cd-cd-cf-ha   1    6.650       180.000           2.000      same as X -ce-cf-X 
+cc-cc-ce-c2   1    1.000       180.000           2.000      same as X -ce-ce-X 
+cc-cc-ce-ha   1    1.000       180.000           2.000      same as X -ce-ce-X 
+c2-ce-cc-cd   1    1.000       180.000           2.000      same as X -ce-ce-X 
+cd-cc-ce-ha   1    1.000       180.000           2.000      same as X -ce-ce-X 
+
+IMPROPER
+c3-o -c -o          1.1          180.0         2.0          General improper torsional angle (1 general atom type)
+c3-cc-cc-cd         1.1          180.0         2.0          Using default value
+cc-cf-cc-nc         1.1          180.0         2.0          Using default value
+cd-cf-cd-nc         1.1          180.0         2.0          Using default value
+c3-cc-cd-cd         1.1          180.0         2.0          Using default value
+cc-cd-cf-ha         1.1          180.0         2.0          Using default value
+cc-cd-cc-ce         1.1          180.0         2.0          Using default value
+c2-cc-ce-ha         1.1          180.0         2.0          Using default value
+ce-ha-c2-ha         1.1          180.0         2.0          Using default value
+
+NONBON
+
+
+

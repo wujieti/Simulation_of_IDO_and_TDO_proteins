@@ -1,0 +1,12 @@
+@<TRIPOS>MOLECULE
+FE1
+    1     0     1     0     0
+SMALL
+RESP Charge
+ 
+ 
+@<TRIPOS>ATOM
+      1 FE        -20.7910   -5.4190  -19.0020 M1        1 FE1     -0.000113
+@<TRIPOS>BOND
+@<TRIPOS>SUBSTRUCTURE
+     1 FE1         1 TEMP              0 ****  ****    0 ROOT

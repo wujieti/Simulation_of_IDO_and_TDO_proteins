@@ -1,0 +1,31 @@
+remark goes here
+MASS
+
+BOND
+
+ANGLE
+
+DIHE
+n2-ce-nh-hn   1    0.675       180.000           2.000      same as X -c2-nh-X 
+n2-ce-nh-c3   1    0.675       180.000           2.000      same as X -c2-nh-X 
+n2-ce-cc-cc   1    1.000       180.000           2.000      same as X -ce-ce-X 
+n2-ce-cc-nd   1    1.000       180.000           2.000      same as X -ce-ce-X 
+nh-ce-n2-oh   1    4.150       180.000           2.000      same as X -c2-n2-X 
+nh-ce-cc-cc   1    1.000       180.000           2.000      same as X -ce-ce-X 
+nh-ce-cc-nd   1    1.000       180.000           2.000      same as X -ce-ce-X 
+hn-nh-ce-cc   1    0.675       180.000           2.000      same as X -c2-nh-X 
+c3-nh-ce-cc   1    0.675       180.000           2.000      same as X -c2-nh-X 
+cc-ce-n2-oh   1    4.150       180.000           2.000      same as X -c2-n2-X 
+
+IMPROPER
+cc-n2-ce-nh         1.1          180.0         2.0          Using default value
+c3-ce-nh-hn         1.1          180.0         2.0          Using default value
+ca-ca-ca-ha         1.1          180.0         2.0          General improper torsional angle (2 general atom types)
+cc-nd-cc-nh         1.1          180.0         2.0          Using default value
+cc-ce-cc-nd         1.1          180.0         2.0          Using default value
+cc-hn-nh-hn         1.1          180.0         2.0          Using default value
+
+NONBON
+
+
+

@@ -1,0 +1,37 @@
+source oldff/leaprc.ff14SB
+source leaprc.gaff
+addAtomTypes {
+        { "M1"  "Fe" "sp3" }
+        { "Y1"  "N" "sp3" }
+        { "Y2"  "N" "sp3" }
+        { "Y3"  "N" "sp3" }
+        { "Y4"  "N" "sp3" }
+        { "Y5"  "N" "sp3" }
+        { "Y6"  "O" "sp3" }
+}
+HD1 = loadmol2 HD1.mol2
+HM1 = loadmol2 HM1.mol2
+FE1 = loadmol2 FE1.mol2
+ML1 = loadmol2 ML1.mol2
+loadamberparams HEM.frcmod
+loadamberparams MOL.frcmod
+loadamberparams frcmod.ions1lm_126_tip3p
+loadamberparams 5WN8_mcpbpy.frcmod
+mol = loadpdb 5WN8_mcpbpy.pdb
+bond mol.333.NE2 mol.391.FE
+bond mol.390.NA mol.391.FE
+bond mol.390.NB mol.391.FE
+bond mol.390.NC mol.391.FE
+bond mol.390.ND mol.391.FE
+bond mol.391.FE mol.392.O12
+bond mol.332.C mol.333.N
+bond mol.333.C mol.334.N
+savepdb mol 5WN8_dry.pdb
+saveamberparm mol 5WN8_dry.prmtop 5WN8_dry.inpcrd
+solvatebox mol TIP3PBOX 10.0
+addions mol Na+ 0
+addions mol Cl- 0
+savepdb mol 5WN8_solv.pdb
+saveamberparm mol 5WN8_solv.prmtop 5WN8_solv.inpcrd
+quit
+ 

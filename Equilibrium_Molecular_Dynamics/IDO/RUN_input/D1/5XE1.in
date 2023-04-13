@@ -1,0 +1,8 @@
+original_pdb 5XE1_H_renum.pdb
+group_name 5XE1
+cut_off 2.1
+ion_ids 6269
+software_version g03
+ion_mol2files FE.mol2
+naa_mol2files HEM.mol2 MOL.mol2
+frcmod_files HEM.frcmod MOL.frcmod
